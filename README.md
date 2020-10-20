@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is YooobY
+#### i am A python developer and a student
+![i am A python developer and a student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**yoooby/yoooby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i make projects just for fun, :)
 
-Here are some ideas to get you started:
+Skills: Python / Django / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C#, JAVA 
+- 📫 How to reach me: YooobY#0001 
+
+
+
+
